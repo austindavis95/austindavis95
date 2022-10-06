@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austindavis95
 - 👀 I’m interested in music, animals, action sports, and helping others!
-- 🌱 I’m currently learning Java Script, Node, Express, mySQL, noSQL, and Handlebars!
+- 🌱 I’m currently learning Java Script, Node.js, Epress.js, mySQL, Mongoose, React, and MERN!
 - 💞️ I’m looking to collaborate on front end desgin! 
 - 📫 How to reach me adavis102595@yahoo.com!
 
